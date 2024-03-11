@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #993366;
+}
+
+.header{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight:bold;
+    font-size: larger;
+    font-style: oblique;
+    font-display:unset;
+    backdrop-filter:inherit;
+}
+
+.img{
+    padding: 40;
+    text-align: center;
+}
+
+.card{
+    text-align:center;
+    font-size:120%;
+    font-weight: 200;
+}
+
+.home{
+    padding:10px;
+    float:right;
+    background-color: rgb(226, 246, 247);
+
+}
